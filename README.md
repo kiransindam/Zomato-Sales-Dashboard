@@ -40,9 +40,9 @@ Regularly update reports to track the effectiveness of implemented strategies.
 Enhanced customer satisfaction by offering products that align with customer preferences.Increased sales and revenue through effective recommendations and promotions.
 # Conclusion
 -> By leveraging the insights derived from the Product Information Dataset, e-commerce businesses can make data-driven decisions that enhance their product offerings, optimize marketing strategies, and ultimately improve customer satisfaction and loyalty. Feel free to adjust any parts of the problem and solution to better fit your specific context or dataset!
+
+ You can check out the entire process of creating this dashboard in my YouTube video: YouTube Video Link : https://youtu.be/uwThWfrbMHI?si=QJu9B9AJ3Oh_0tCv. Don't forget to like, comment, and subscribe if you find it helpful! for # E-Learning Bridge channe
  
 ![Users Performance  Dashboard -2](https://github.com/user-attachments/assets/c5b9a532-f1cb-44aa-9b23-5813106014d9)
 ![City Performance  Dashboard -3](https://github.com/user-attachments/assets/d11c7b4c-4345-47f2-82b4-1da28cc63891)
-![OverViews Dashboard -1](https://github.com/user-attachments/assets/71e8862c-63cd-42d2-abaf-35601ed2bff6)
-Reference = "https://youtu.be/uwThWfrbMHI?si=XrZRv9629ZF3CviX"
-   
+![OverViews Dashboard -1](https://github.com/user-attachments/assets/71e8862c-63cd-42d2-abaf-35601ed2bff6)   
