@@ -1,4 +1,6 @@
 # Zomato-Sales-Dashboard
+
+![Index](https://github.com/user-attachments/assets/3b583623-9222-47cc-8962-1d1472f1a7be)
 The Product Information Dataset is a comprehensive collection of 10,000 entries detailing various products and their attributes. Each entry includes key features such as a unique product identifier, product name, category, sub-category, brand, current price, discounted price, suggested retail price, average customer rating, number of reviews, product description, color, size, material, and a URL link to the product image.
 
 This dataset is designed for e-commerce analysis and product performance evaluation, providing valuable insights into consumer behavior and market trends. It can be utilized to analyze product performance based on ratings and reviews, identify popular categories and brands, generate personalized product recommendations, and visualize market trends.
@@ -39,5 +41,8 @@ Enhanced customer satisfaction by offering products that align with customer pre
 # Conclusion
 -> By leveraging the insights derived from the Product Information Dataset, e-commerce businesses can make data-driven decisions that enhance their product offerings, optimize marketing strategies, and ultimately improve customer satisfaction and loyalty. Feel free to adjust any parts of the problem and solution to better fit your specific context or dataset!
  
+![Users Performance  Dashboard -2](https://github.com/user-attachments/assets/c5b9a532-f1cb-44aa-9b23-5813106014d9)
+![City Performance  Dashboard -3](https://github.com/user-attachments/assets/d11c7b4c-4345-47f2-82b4-1da28cc63891)
+![OverViews Dashboard -1](https://github.com/user-attachments/assets/71e8862c-63cd-42d2-abaf-35601ed2bff6)
 Reference = "https://youtu.be/uwThWfrbMHI?si=XrZRv9629ZF3CviX"
    
